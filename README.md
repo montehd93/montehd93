@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @montehd93
-- 👀 I’m interested in learning JavaScript
-- 🌱 I’m currently learning JavaScript, CSS and HTML.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: montehd093@gmail.com
